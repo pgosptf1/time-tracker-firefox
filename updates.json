@@ -1,1 +1,18 @@
-{"addons":{"time-tracker@pgosptf1":{"updates":[]}}}
+{
+  "addons": {
+    "time-tracker@pgosptf1": {
+      "updates": [
+        {
+          "version": "1.2.5",
+          "update_link": "https://github.com/pgosptf1/time-tracker-firefox/releases/download/firefox-v1.2.5/time-tracker-firefox-1.2.5.xpi",
+          "update_hash": "sha256:3d48dbd50aaacdf46901aeb5ee0732a315aa596d8f0d86650f71916e37f3aa64",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
